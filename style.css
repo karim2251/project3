@@ -1,0 +1,180 @@
+* {
+    padding: 0;
+    margin: 0%;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+.img1 {
+    width: 200px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+#a1 {
+    float: right;
+    margin-right: 30px;
+    margin-top: 40px;
+    text-decoration: none;
+    color: white;
+    transition: 0.4s;
+}
+
+#a1:hover {
+    background-color: #c9991c;
+    box-shadow: 0px 0px 1pc 1pc #c9991c;
+    color: rgb(0, 0, 0);
+}
+
+.img2 {
+    width: 95%;
+    margin-left: 3%;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+
+.img3 {
+    width: 50px;
+    margin-top: 20px;
+    margin-left: 3%;
+}
+
+.img4 {
+    margin-left: 50px;
+}
+
+.img5 {
+    margin-top: 20px;
+    margin-left: 5%;
+    width: 500px;
+    border-radius: 10px;
+    box-shadow: 2px 3px rgb(119, 3, 104);
+}
+
+.img7 {
+    margin-top: 70px;
+    margin-left: 2%;
+    width: 96%;
+    border-radius: 7px;
+
+}
+
+.img8 {
+    margin-top: 50px;
+    margin-left: 50px;
+    width: 91%;
+    height: 3px;
+}
+
+.img9 {
+
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.img10 {
+    margin-top: 20px;
+    margin-left: 50px;
+    border-radius: 10px;
+}
+
+.p1 {
+    margin-left: 9%;
+    margin-top: -50px;
+    font-size: 30px;
+}
+
+.div3 {
+    color: #ff8b07;
+    background-color: rgba(20, 15, 15, 0.781);
+    width: 250px;
+    height: 300px;
+    float: right;
+    margin-right: 30px;
+    margin-top: -30px;
+    border-radius: 10px;
+}
+
+
+
+h2,h3,.p2 {
+    margin-left: 20px;
+}
+
+.ha {
+    margin-top: 30px;
+    margin-left: 5%;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.p4 {
+    margin-left: 5%;
+}
+
+figure {
+    margin-left: 10%;
+}
+
+figcaption {
+    margin-left: 70px;
+    font-size: 20px;
+    margin-top: 36px;
+    font-weight: bold;
+
+}
+
+
+.p5,.p6 {
+    margin-left: 45%;
+}
+
+.p5 {
+    margin-top: -110px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+.p7,ul {
+    margin-left: 75%;
+}
+
+.p7 {
+    margin-top: -4.5%;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#a2 {
+    text-decoration: none;
+    color: rgb(255, 153, 0);
+}
+
+#a2:hover {
+    font-size: 18px;
+    box-shadow: 0px 0px 1pc 0.1pc rgb(13, 93, 117);
+    background-color: rgb(13, 93, 117);
+    border-radius: 5px;
+
+}
+
+.p8 {
+    margin-left: 50px;
+    font-size: 17px;
+    margin-top: 20px;
+}
+
+.lien {
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.p9 {
+    margin-top: 20px;
+    margin-left: 55px;
+
+}
